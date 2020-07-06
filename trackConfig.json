@@ -1,0 +1,6 @@
+{
+    "appFile": "${PATH OF THE FILE TO EXECUTE}",
+    "trackFolder": false,
+    "excludeFiles": [],
+    "extraIncludeFiles": []
+}
